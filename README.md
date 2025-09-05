@@ -42,7 +42,7 @@
     <a href="https://your-live-demo-link.com" target="_blank">Click here</a>
   </p>
   <p>📂 GitHub Repository: 
-    <a href="https://github.com/your-username/your-repo" target="_blank">View Code</a>
+    <a href="https://github.com/icingDan" target="_blank">View Code</a>
   </p>
 </body>
 </html>
